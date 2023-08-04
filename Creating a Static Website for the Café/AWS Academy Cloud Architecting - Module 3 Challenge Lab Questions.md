@@ -6,6 +6,7 @@ Question 1: When viewing the website after Task 3, do you see the page in the br
 
 
 
+
 Question 2: What is another way to ensure maximum protection and prevent the accidental deletion of a preserved version?
 
  Cross-Region replication
