@@ -19,6 +19,7 @@ Question 3: Do you see the objects from your source bucket in the destination bu
  Yes 
  
 +++++ No +++++
+
 Question 4: Was the version that you just deleted from your source bucket also deleted from your destination bucket?
 
  Yes
