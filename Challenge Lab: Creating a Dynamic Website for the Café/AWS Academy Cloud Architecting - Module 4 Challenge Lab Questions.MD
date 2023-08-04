@@ -16,9 +16,12 @@ Question 3: What inbound TCP port numbers are open for this instance?
 
  TCP port 80 only, open to the internet
 
+
  TCP port 22 only, open to the internet
 
+
  TCP port 80 only, open to a specific range of IP addresses
+
 
  TCP port 22 only, open to a specific range of IP addresses
 
