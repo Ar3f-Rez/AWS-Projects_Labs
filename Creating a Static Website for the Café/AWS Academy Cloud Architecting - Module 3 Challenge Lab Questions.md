@@ -2,14 +2,14 @@ Question 1: When viewing the website after Task 3, do you see the page in the br
 
  Yes, everything looks great!
  
- No, the files are not publicly accessible. +
++++++ No, the files are not publicly accessible. +++++
 
 
 Question 2: What is another way to ensure maximum protection and prevent the accidental deletion of a preserved version?
 
  Cross-Region replication
  
- Multi-factor authentication +
++++++ Multi-factor authentication +++++
  
  Cross-Origin Resource Sharing (CORS)
  
@@ -18,7 +18,7 @@ Question 2: What is another way to ensure maximum protection and prevent the acc
 
 Question 3: Do you see the objects from your source bucket in the destination bucket?
 
- Yes +
++++++ Yes +++++
  
  No
 
@@ -27,4 +27,4 @@ Question 4: Was the version that you just deleted from your source bucket also d
 
  Yes
  
- No +
++++++ No +++++
