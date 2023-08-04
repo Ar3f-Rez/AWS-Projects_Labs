@@ -16,9 +16,9 @@ Question 2: What is another way to ensure maximum protection and prevent the acc
 
 Question 3: Do you see the objects from your source bucket in the destination bucket?
 
-+++++ Yes +++++
+ Yes 
  
- No
++++++ No +++++
 Question 4: Was the version that you just deleted from your source bucket also deleted from your destination bucket?
 
  Yes
