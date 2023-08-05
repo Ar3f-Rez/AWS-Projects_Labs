@@ -2,9 +2,9 @@ Question 1: What is the purpose of the internet gateway in the public subnet?
 
  Allows instances in the private subnet to obtain a public IP address
  
- Allows instances in the public subnet to obtain a public IP addresss
+ Allows instances in the public subnet to obtain a public IP address
  
- Allows instances in the public subnet with a public IP address to communicate with the internet
+ ++++ Allows instances in the public subnet with a public IP address to communicate with the internet ++++
  
  Allows instances in the private subnet with a public IP address to communicate with the internet
  
@@ -14,7 +14,7 @@ Question 2: What allows the instance in the private subnet to connect to the int
 
  The internet gateway in the public subnet
  
- The NAT gateway
+ ++++ The NAT gateway ++++
  
  The Elastic IP address
  
@@ -26,7 +26,7 @@ Question 3: Can the instance in the private subnet be accessed directly from the
 
  Yes
  
- No
+ ++++ No ++++
 
 
 Question 4: Why do you use two different key pairs to access the private instance and the bastion host?
@@ -35,7 +35,7 @@ Question 4: Why do you use two different key pairs to access the private instanc
  
  It provided practice with creating key pairs
  
- Separate key pairs could help reduce the impact of a compromised bastion host
+ ++++ Separate key pairs could help reduce the impact of a compromised bastion host ++++
  
  Key pairs can't be reused
  
@@ -45,7 +45,7 @@ Question 5: Can the bastion host use ping and get a reply from the instance in t
 
  Yes
  
- No
+ ++++ No ++++
  
 
 
@@ -53,7 +53,7 @@ Question 6: Which security group rules allow the private EC2 instance to receive
 
  Outbound on private and outbound on test
  
- Outbound on private and inbound on test
+ ++++ Outbound on private and inbound on test ++++
  
  Inbound on private and outbound on test
  
